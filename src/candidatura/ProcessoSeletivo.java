@@ -11,7 +11,7 @@ public class ProcessoSeletivo {
     static void analisarCandidato (double salarioPretendido) {
         double salarioBase = 2000.0;
         if (salarioBase > salarioPretendido) {
-            System.out.println("LIGAR PARA CANDIDATO");
+            System.out.println("LIGAR PARA CANDIDATOO");
         }else if (salarioBase == salarioPretendido) {
             System.out.println("LIGAR PARA CANDIDATO COM CONTRAPROPOSTA");
         }
